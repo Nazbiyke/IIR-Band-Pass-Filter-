@@ -51,7 +51,7 @@ Because IIR filters do not have linear phase, the second part of the project imp
 
 The project makes use of several DSP and Signal Processing Toolbox features, such as:
 
-- buttord, butter — filter order and coefficient calculation
+- <ins>buttord, butter</ins> — filter order and coefficient calculation
 
 - freqz — frequency-response analysis
 
