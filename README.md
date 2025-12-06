@@ -2,7 +2,7 @@
 
 This project implements a complete digital filter design workflow in MATLAB, including the design of an IIR band-pass Butterworth filter and the phase equalization of its group delay using an all-pass filter. The work is based on requirements from a university final exam in Digital Signal Processing.
 
-📌 Project Overview
+📌 **Project Overview** 
 
 The task is divided into two major parts:
 
@@ -47,7 +47,7 @@ Because IIR filters do not have linear phase, the second part of the project imp
    - Group delay (showing improvement in the passband)
 
 
-🛠 Methods and MATLAB Functions Used
+🛠 **Methods and MATLAB Functions Used**
 
 The project makes use of several DSP and Signal Processing Toolbox features, such as:
 
@@ -61,7 +61,7 @@ The project makes use of several DSP and Signal Processing Toolbox features, suc
 
 - Custom all-pass filter design based on group-delay matching
 
-📊 Results Summary
+📊 **Results Summary**
 
 - The designed Butterworth filter satisfies the amplitude specifications for passband ripple and stopband attenuation.
 
@@ -70,7 +70,7 @@ The project makes use of several DSP and Signal Processing Toolbox features, suc
 - Final plots demonstrate an improved phase linearity in the cascade filter.
 
 
-🚀 How to Run
+🚀 **How to Run**
 
 Open MATLAB
 
