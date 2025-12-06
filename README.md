@@ -53,11 +53,11 @@ The project makes use of several DSP and Signal Processing Toolbox features, suc
 
 - <ins>buttord, butter</ins> — filter order and coefficient calculation
 
-- freqz — frequency-response analysis
+- <ins>freqz</ins> — frequency-response analysis
 
-- grpdelay — group delay computation
+- <ins>grpdelay</ins> — group delay computation
 
-- zplane — pole-zero visualization
+- <ins>zplane</ins> — pole-zero visualization
 
 - Custom all-pass filter design based on group-delay matching
 
