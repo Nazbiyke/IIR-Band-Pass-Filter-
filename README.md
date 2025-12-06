@@ -72,13 +72,6 @@ Phase response
 
 Group delay (showing improvement in the passband)
 
-📁 Files Included
-
-filter_design.m — main MATLAB script performing all tasks
-
-plots/ — generated plots (frequency response, poles/zeros, group delay)
-
-README.md — project documentation (this file)
 
 🛠 Methods and MATLAB Functions Used
 
